@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@source "../views";
+@theme{
+    --color-black: #060606
+}
